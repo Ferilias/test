@@ -1,7 +1,9 @@
 package com.exo;
 
-public class HelloWorld
+public class NOTHelloWorld
 {
+
+
 	public static void main(String[] args)
 	{
 		System.out.println("Exercice 1");
@@ -12,10 +14,11 @@ public class HelloWorld
 				
 		System.out.println("A = " + varA);
 		System.out.println("B = " + varB);
-		
+
 		//test amandine
+		// zedjlsiedlskqdjclksqcd
 		System.out.println("Exercice 2");
-		varA = 5;
+		varA = 544;
 		varB = 3;
 		varC = varA + varB;
 		varA = 2;
