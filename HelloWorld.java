@@ -1,6 +1,6 @@
 package com.exo;
 
-public class HelloWorld
+public class NOTHelloWorld
 {
 	public static void main(String[] args)
 	{
