@@ -4,9 +4,6 @@ public class NOTHelloWorld
 {
 
 
-
-
-6666
 	public static void main(String[] args)
 	{
 		System.out.println("Exercice 1");
