@@ -2,6 +2,11 @@ package com.exo;
 
 public class HelloWorld
 {
+
+
+
+
+6666
 	public static void main(String[] args)
 	{
 		System.out.println("Exercice 1");
