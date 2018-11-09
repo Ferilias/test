@@ -14,8 +14,7 @@ public class NOTHelloWorld
 				
 		System.out.println("A = " + varA);
 		System.out.println("B = " + varB);
-		// zedjlsiedlskqdjclksqcd
-		
+
 		System.out.println("Exercice 2");
 		varA = 544;
 		varB = 3;
