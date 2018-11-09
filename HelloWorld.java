@@ -2,6 +2,11 @@ package com.exo;
 
 public class NOTHelloWorld
 {
+
+
+
+
+6666
 	public static void main(String[] args)
 	{
 		System.out.println("Exercice 1");
@@ -15,7 +20,7 @@ public class NOTHelloWorld
 		// zedjlsiedlskqdjclksqcd
 		
 		System.out.println("Exercice 2");
-		varA = 5;
+		varA = 544;
 		varB = 3;
 		varC = varA + varB;
 		varA = 2;
