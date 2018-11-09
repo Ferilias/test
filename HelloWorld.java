@@ -15,7 +15,7 @@ public class HelloWorld
 		// zedjlsiedlskqdjclksqcd
 		
 		System.out.println("Exercice 2");
-		varA = 5;
+		varA = 544;
 		varB = 3;
 		varC = varA + varB;
 		varA = 2;
