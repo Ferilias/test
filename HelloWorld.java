@@ -13,7 +13,7 @@ public class HelloWorld
 		System.out.println("A = " + varA);
 		System.out.println("B = " + varB);
 		
-		
+		//test amandine
 		System.out.println("Exercice 2");
 		varA = 5;
 		varB = 3;
